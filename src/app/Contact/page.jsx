@@ -6,7 +6,7 @@ function contactPage() {
     <div className='flex'>
       <Header />
       <div className='bg-gray-100 flex flex-col'></div>
-       <div className='text-[80px] flex-col ml-40'> 
+       <div className='bg-gray-100 text-[80px] flex-col ml-40'> 
        <div>Email: 16354.smr@gmail.com</div>
       
        <div>Phone: 0808044850</div>
