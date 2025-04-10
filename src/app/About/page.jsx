@@ -18,12 +18,13 @@ function aboutpage() {
        <div className='min-h-screen flex bg-gray-100 w-full'>
        <div className='ml-40'>
        <h3>ABOUT ME</h3>
-       <h5>  My name is Kittisak buachan . My nickname is TEE .My age is 25 years old . now i'm looking for job developer. 
-         My target is work as developer and develop myself for successful workjob in my life . i able to work in bangkok.
-        I have learn about coding since i study at university until now i have study online corse about coding. 
+       <h5>  My name is Kittisak buachan . My nickname is TEE .I'm 25 years old . now i'm looking for developer. </h5>
+       <h5>  My target is work as developer and develop myself for successful workjob in my life . I'm able to work in bangkok.</h5>
+       <h5> I can do about coding i think my skill will develop or help work in coparated very much and i want to get more experience </h5>
+          <h5> about programming. </h5>
          I hope you enjoy with my portfolio if you want to contact me click in CONTACT at sidebar Thank you very much :D </h5>
        <h3>EXPERIENCE</h3>
-       <h5>I have experience about coding project when i study</h5>
+       <h5>This is my project that i have done before</h5>
        <ul>
         <li>1. Analyze data  using python</li>
         <li>2. Image processing detect color and display via viedo camera opencv using python</li>
