@@ -15,9 +15,9 @@ import Image from 'next/image';
 
 function Skillpage() {
   return (
-    <div className='flex '>
+    <div className='flex bg-gray-100 '>
         <Header />
-        <main className='grid grid-cols-3 gap-4  grid-rows-3 gap-10 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 justify-center items-center w-full bg-gray-100 '>
+        <main className='min-h-screen grid grid-cols-3 gap-4  grid-rows-3 gap-10 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 justify-center items-center w-full bg-gray-100 ml-64 '>
         <div className='hover:scale-110 transition-all duration-300   flex flex-col items-center justify-center'>
             <Image src={pythonImg}
             width={250} height={250} alt='python'/>
