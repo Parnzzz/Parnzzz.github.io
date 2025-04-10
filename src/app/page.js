@@ -88,7 +88,7 @@ export default function Home() {
   return (
     <div className="flex bg-gradient-to-r from-lime-300 to-lime-600">
       <Header />
-      <div className= " bg-gradient-to-r from-lime-300 to-lime-600 w-full min-h-screen flex flex-col items-start justify-center ">
+      <div className= " w-full min-h-screen flex flex-col items-start justify-center ">
       <StyledComponent> HELLO </StyledComponent>
         <StyledComponent1> WELCOME</StyledComponent1>
         <WordsContainer>
