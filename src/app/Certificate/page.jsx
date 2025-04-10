@@ -13,7 +13,7 @@ function cerpage() {
   return (
     <div className='flex bg-gray-100'>
         <Header />
-       <div className='grid grid-cols-2 grid-rows-2  sm:grid-cols-1 md:grid-cols-2 justify-center items-center w-full ml-64'>
+       <div className='grid grid-cols-2 grid-rows-2  sm:grid-cols-1 md:grid-cols-2 justify-center items-center w-full '>
        <div className='hover:scale-120 transition-all duration-300  flex flex-col items-center mt-10 '>
         <h2>Certificate HTML</h2>
        <Image src={htmlImg} width={600} height={400} alt="htmlcer"/>
