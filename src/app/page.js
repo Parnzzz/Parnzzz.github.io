@@ -86,7 +86,7 @@ ${slideInLeft}
 
 export default function Home() {
   return (
-    <div className="flex bg-gradient-to-r from-lime-300 to-lime-600">
+    <div className="flex bg-gradient-to-r from-lime-300 to-lime-600 w-full">
       <Header />
       <div className= "  flex flex-col items-start justify-center ml-50">
       <StyledComponent> HELLO </StyledComponent>
