@@ -10,7 +10,7 @@ import Image from 'next/image';
 
 function Header() {
   return (
-    <main className=' '>
+    <main>
         <div className ="flex flex-col items-center bg-orange-300 w-64 h-100 ">
         <div className='mt-10 overflow-hidden rounded-full overflow-hidden'>
         <Image src={Img} width={150} height={50} alt="picture"/>
