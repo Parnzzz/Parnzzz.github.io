@@ -3,7 +3,7 @@ import Header from "../header/Header"
 function contactPage() {
   return (
     
-    <div className='flex'>
+    <div className='flex bg-gray-100'>
       <Header />
       <div className='bg-gray-100 flex flex-col '></div>
        <div className='bg-gray-100 text-[80px] flex-col ml-40'> 
