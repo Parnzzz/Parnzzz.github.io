@@ -18,7 +18,7 @@ function Skillpage() {
     <div className='flex '>
         <Header />
         <main className='grid grid-cols-3 gap-4  grid-rows-3 gap-10 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 justify-center items-center w-full bg-gray-100 '>
-        <div className='hover:scale-100 transition-all duration-300   flex flex-col items-center justify-center'>
+        <div className='hover:scale-110 transition-all duration-300   flex flex-col items-center justify-center'>
             <Image src={pythonImg}
             width={250} height={250} alt='python'/>
            <h2>Python</h2>
