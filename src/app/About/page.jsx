@@ -19,7 +19,8 @@ function aboutpage() {
        <div className='ml-40'>
        <h3>ABOUT ME</h3>
        <h5> My name is Kittisak buachan . My nickname is TEE .I'm 25 years old . now i'm looking for developer.
-         My target is work as developer and develop myself for successful workjob in my life . I'm able to work in bangkok.
+         My target is work as developer and develop myself for successful workjob in my life . </h5>
+         <h5>I'm able to work in bangkok.
         I can do about coding i think my skill will develop or help work in coparated very much and i want to get more experience 
         about programming in future. </h5>
         <h5>I hope you enjoy with my portfolio if you want to contact me click in CONTACT at sidebar Thank you very much :D </h5>
