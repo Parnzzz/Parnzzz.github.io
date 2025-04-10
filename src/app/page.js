@@ -80,8 +80,8 @@ ${slideInLeft}
  
  const WordsContainer = styled.div`
  display: flex;
- justify-content: center;
-background: linear-gradient(to right, #bef264, #65a30d);
+ 
+ background: linear-gradient(to right, #bef264, #65a30d);
 `;
 
 export default function Home() {
