@@ -4,7 +4,7 @@ function educationPage() {
   return (
     <div className='flex'>
       <Header />
-      <div className='min-h-screen flex flex-col justify-around items-center   bg-gray-100 w-full ml-64'>
+      <div className='min-h-screen flex flex-col justify-around items-center   bg-gray-100 w-full '>
       <div className='hover:scale-120 flex flex-col items-center bg-gray-400  w-150 rounded-xl p-10 ' >
       <h2>Primary/Elementary School </h2>
       <p> Thampirak School Grade 1-6 English program</p>
