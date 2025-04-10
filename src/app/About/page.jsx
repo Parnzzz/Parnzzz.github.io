@@ -15,8 +15,8 @@ function aboutpage() {
   return (
     <div className='flex'>
       <Header />
-       <div className='flex bg-gray-100 w-full'>
-       <div className='ml-40'>
+       <div className='min-h-screen flex bg-gray-100 w-full'>
+       <div className='ml-104'>
        <h3>ABOUT ME</h3>
        <h5>  My name is Kittisak buachan . My nickname is TEE .My age is 25 years old . now i'm looking for job developer. 
          My target is work as developer and develop myself for successful workjob in my life . i able to work in bangkok.
