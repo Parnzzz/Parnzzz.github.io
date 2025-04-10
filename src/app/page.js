@@ -78,8 +78,8 @@ ${slideInLeft}
    margin-left: 30px;
    `
  
- const WordsContainer = styled.div`
- display: flex;
+ const WordsContainer = styled.span`
+ 
  justify-content: center;
  
 `;
